@@ -8,7 +8,7 @@ Pre-work project for Intro to Mobile Product Development.
 
 
 ### Required User Stories
-- [X] 1. User sees custom text in a label - Hello from {name}!
+- [X] 1. User sees custom text in a label - Hello from Jose!
 - [X] 2. User see's custom background color.
 - [X] 3. User can tap a button to change the text color of the label.
 
