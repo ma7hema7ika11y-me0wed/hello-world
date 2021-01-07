@@ -1,10 +1,10 @@
-# Hello World App - Pre-work
+# Hello World App
 Pre-work project for Intro to Mobile Product Development.
 
 
 ### App Walk-though
 
-<img src="https://github.com/ma7hema7ika11y-me0wed/hello-world/blob/main/helloworld.gif" width=200><br>
+<img src="https://github.com/ma7hema7ika11y-me0wed/hello-world/blob/main/helloworld.gif" width=325><br>
 
 
 ### Required User Stories
